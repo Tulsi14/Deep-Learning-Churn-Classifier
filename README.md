@@ -41,7 +41,7 @@ The model was trained on 10,000 real-world banking records and achieves strong c
 ##  Demo
 
 ```
-streamlit run app.py
+https://deep-learning-churn-classifier-bc8f9gin67od46fucqwwab.streamlit.app/
 ```
 
 Fill in the customer's demographics, account details, and product usage → click **⚡ Run Churn Prediction** → get an instant verdict with probability, risk badge, and confidence score.
